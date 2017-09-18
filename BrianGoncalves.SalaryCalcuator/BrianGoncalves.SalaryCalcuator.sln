@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrianGoncalves.SalaryCalculator.ConsoleApp", "BrianGoncalves.SalaryCalcuator.ConsoleApp\BrianGoncalves.SalaryCalculator.ConsoleApp.csproj", "{B56F330E-9B1B-460C-BC74-26030BDDFD19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrianGoncalves.SalaryCalculator.UnitTest", "BrianGoncalves.SalaryCalculator.UnitTest\BrianGoncalves.SalaryCalculator.UnitTest.csproj", "{3DA6FA28-3006-440A-95E7-DAFB462294F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrianGoncalves.SalaryCalculator.Application", "BrianGoncalves.SalaryCalculator.Library\BrianGoncalves.SalaryCalculator.Application.csproj", "{2E68D932-C027-4928-A842-A0686DB0285C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrianGoncalves.SalaryCalculator.Interface", "BrianGoncalves.SalaryCalculator.Interface\BrianGoncalves.SalaryCalculator.Interface.csproj", "{104799F4-E4D5-4519-A2D9-D210FDE434EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrianGoncalves.SalaryCalculator.Core", "BrianGoncalves.SalaryCalculator.Core\BrianGoncalves.SalaryCalculator.Core.csproj", "{A36039CE-3FC2-44A3-A617-2D4A6C1A8500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B56F330E-9B1B-460C-BC74-26030BDDFD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56F330E-9B1B-460C-BC74-26030BDDFD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56F330E-9B1B-460C-BC74-26030BDDFD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56F330E-9B1B-460C-BC74-26030BDDFD19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA6FA28-3006-440A-95E7-DAFB462294F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA6FA28-3006-440A-95E7-DAFB462294F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA6FA28-3006-440A-95E7-DAFB462294F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA6FA28-3006-440A-95E7-DAFB462294F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E68D932-C027-4928-A842-A0686DB0285C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E68D932-C027-4928-A842-A0686DB0285C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E68D932-C027-4928-A842-A0686DB0285C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E68D932-C027-4928-A842-A0686DB0285C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{104799F4-E4D5-4519-A2D9-D210FDE434EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104799F4-E4D5-4519-A2D9-D210FDE434EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104799F4-E4D5-4519-A2D9-D210FDE434EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104799F4-E4D5-4519-A2D9-D210FDE434EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A36039CE-3FC2-44A3-A617-2D4A6C1A8500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36039CE-3FC2-44A3-A617-2D4A6C1A8500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36039CE-3FC2-44A3-A617-2D4A6C1A8500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36039CE-3FC2-44A3-A617-2D4A6C1A8500}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
